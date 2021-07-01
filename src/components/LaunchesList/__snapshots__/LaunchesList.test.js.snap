@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+>
+  No results
+</div>
+`;
+
+exports[`renders correctly with data 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 MuiGrid-grid-lg-3"
+  >
+    <div
+      className="MuiPaper-root MuiCard-root media-card MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <div
+          className="MuiCardMedia-root"
+          style={
+            Object {
+              "backgroundImage": "url(\\"https://images2.imgbox.com/40/e3/GypSkayF_o.png\\")",
+            }
+          }
+          title=""
+        />
+        <div
+          className="MuiCardContent-root"
+        >
+          <h2
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+          >
+            FalconSat #1
+          </h2>
+          <div
+            className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+          >
+            <p>
+              Mission Ids:
+            </p>
+            <p>
+              Launch Year: 
+              2006
+            </p>
+            <p>
+              Successful Launch: 
+              false
+            </p>
+            <p>
+              Successful Landing: 
+            </p>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 MuiGrid-grid-lg-3"
+  >
+    <div
+      className="MuiPaper-root MuiCard-root media-card MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <button
+        className="MuiButtonBase-root MuiCardActionArea-root"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <div
+          className="MuiCardMedia-root"
+          style={
+            Object {
+              "backgroundImage": "url(\\"https://images2.imgbox.com/00/2f/FhtEd0nB_o.png\\")",
+            }
+          }
+          title=""
+        />
+        <div
+          className="MuiCardContent-root"
+        >
+          <h2
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+          >
+            COTS 1 #7
+          </h2>
+          <div
+            className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+          >
+            <p>
+              Mission Ids:
+            </p>
+            <ul>
+              <li>
+                EE86F74
+              </li>
+            </ul>
+            <p>
+              Launch Year: 
+              2010
+            </p>
+            <p>
+              Successful Launch: 
+              true
+            </p>
+            <p>
+              Successful Landing: 
+            </p>
+          </div>
+        </div>
+        <span
+          className="MuiCardActionArea-focusHighlight"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

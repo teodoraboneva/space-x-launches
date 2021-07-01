@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<header>
+  <h1
+    className="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom MuiTypography-alignCenter"
+  >
+    SpaceX Launch Programs
+  </h1>
+</header>
+`;
